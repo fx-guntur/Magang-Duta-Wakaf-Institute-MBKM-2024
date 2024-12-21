@@ -52,7 +52,7 @@ Proyek yang saya kerjakan adalah sebuah platform web yang dirancang khusus untuk
 ## Screenshots Landing Page
 Pada projek ini terdapat 16 template yang dapat dipakai oleh merchant / pelaku usaha. Pada projek kali ini tiap anggota tim mengerjakan 4 template. Berikut adalah screenshot dari masing-masing template
 
-### [![github](https://github.com/user-attachments/assets/233a1390-6bcc-47c2-b5e1-0c533081480c)](https://github.com/fx-guntur) Fx. Guntur
+### [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/fx-guntur) Fx. Guntur
 | Kue Roti | Kue Kering | Kue 3 | Minuman 2 |
 | ----------- | ----------- | ----------- | ----------- |
 | Dashboard Kue Roti | Dashboard Kue Kering | Dashboard Kue 3 | Dashboard Minuman 2 |
