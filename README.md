@@ -70,7 +70,7 @@ Pada projek ini terdapat 16 template yang dapat dipakai oleh merchant / pelaku u
 
 ### [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/thanxcey21) Adriano Nathan Widodo
 | Donat | Estore | Famms | 
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- |
 | Dashboard Donat | Dashboard Estore | Dashboard Famms |
 | ![donat](https://github.com/user-attachments/assets/3a7ce91f-8741-45d6-88fb-a071d2739873) | ![estore](https://github.com/user-attachments/assets/8ee72e61-376d-4b74-8aa6-5edc2bac01e8) | ![famms](https://github.com/user-attachments/assets/2a0ab065-e1cf-4598-94b1-4ee91edb6b0f) |
 | Product Page Donat | Product Page Estore | Product Page Famms |
