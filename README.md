@@ -61,19 +61,28 @@ Pada projek ini terdapat 16 template yang dapat dipakai oleh merchant / pelaku u
 | ![kue-roti](https://github.com/user-attachments/assets/40eecad1-e3bb-4ade-ad55-a753482042cf) | ![kue-kering](https://github.com/user-attachments/assets/cf7c9868-8969-426a-9ee9-1152549be521) | ![kue-3](https://github.com/user-attachments/assets/e670955b-da5e-47c5-b373-b3c9d315f288) | ![minuman-2](https://github.com/user-attachments/assets/c9f949d1-dd34-4386-bd02-3c0b8fe89d64) |
 
 ### [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/iqbalabdulmajid) iqbal Abdul Majid
-| Minuman 3 | Kue Kering | Kue 3 | Minuman 2 |
+| Minuman 3 | Seblak | warung | warung 2 |
 | ----------- | ----------- | ----------- | ----------- |
-| Dashboard Minuman 3 | Dashboard Kue Kering | Dashboard Kue 3 | Dashboard Minuman 2 |
-| ![Minuman 3](![screencapture-seblak-test-2025-01-01-13_35_00 (1)](https://github.com/user-attachments/assets/5057812d-1362-47c9-b16c-74937d50b1c8)
-) | ![kue-kering](https://github.com/user-attachments/assets/0dbcffe6-47fd-4167-8bc6-8283be593cbc) | ![kue-3](https://github.com/user-attachments/assets/e22b56fb-3609-401f-8c6f-028a3949e8d1) | ![minuman-2](https://github.com/user-attachments/assets/f31078da-7585-485e-9ddd-5f61a62ab468) |
-| Product Page Kue Roti | Product Page Kue Kering | Product Page Kue 1 | Product Page Minuman 2 |
-| ![kue-roti](https://github.com/user-attachments/assets/40eecad1-e3bb-4ade-ad55-a753482042cf) | ![kue-kering](https://github.com/user-attachments/assets/cf7c9868-8969-426a-9ee9-1152549be521) | ![kue-3](https://github.com/user-attachments/assets/e670955b-da5e-47c5-b373-b3c9d315f288) | ![minuman-2](https://github.com/user-attachments/assets/c9f949d1-dd34-4386-bd02-3c0b8fe89d64) |
+| Dashboard Minuman 3 | Dashboard Seblak | Dashboard warung | Dashboard warung 2 |
+| ![minuman-3](https://github.com/user-attachments/assets/ced2f6c8-eff2-4a23-a32b-100d0c80957d) | ![seblak](https://github.com/user-attachments/assets/add1ff4a-8e4b-4ed2-9555-033bb8ba6697) | ![warung](https://github.com/user-attachments/assets/d2a5356e-1896-47a8-99a2-c5b076d40308) | ![warung-2](https://github.com/user-attachments/assets/dc8dfc90-a2bf-49a3-973b-c3b52f30bf94) |
+| Product Page Minuman 3 | Product Page Seblak | Product Page warung | Product Page warung 2|
+| ![minuman-3](https://github.com/user-attachments/assets/65688d40-3c68-427e-95b4-eb6644c87f95) | ![seblak](https://github.com/user-attachments/assets/4a12e310-5447-4820-a23b-62b8b631efa9) | ![warung](https://github.com/user-attachments/assets/979df7ff-f20d-4381-b133-0b6a4173518b) | ![warung-2](https://github.com/user-attachments/assets/69e19218-d135-4ac8-b4ad-e1210e3d895a) |
 
 <!---
 | Tema 1 | Tema 2 | Tema 3 | Tema 4 |
 | ----------- | ----------- | ----------- | ----------- |
-| Dashboard Tema 1 | Dashboard Tema 2 | Dashboard Tema 3 | Dashboard Tema 4 |
+| Dashboard Tema 1 | Dashboard Tema 2 | Dashboar!
+d Tema 3 | Dashboard Tema 4 |
+
 | image_link | image_link | image_link | image_link |
 | Product Page Tema 1 | Product Page Tema 2 | Product Page Tema 1 | Product Page Tema 2 |
 | image_link | image_link | image_link | image_link |
-!-->
+!>
+
+
+ 
+
+
+
+
+
