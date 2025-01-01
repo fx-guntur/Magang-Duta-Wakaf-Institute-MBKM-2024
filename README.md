@@ -9,7 +9,7 @@ Proyek yang kami kerjakan adalah sebuah platform web yang dirancang khusus untuk
 | ----- | ----- | -----  | ----- |
 | 211057011 | Fx. Guntur Putra Susanto | Universitas AKPRIND Indonesia | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/fx-guntur) |
 | 211054012 | Iqbal Abdul Majid | Universitas AKPRIND Indonesia | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/iqbalabdulmajid) |
-| 211059001 | Adriano Nathan Widodo | Universitas AKPRIND Indonesia | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/fx-guntur) |
+| 211059001 | Adriano Nathan Widodo | Universitas AKPRIND Indonesia | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/thanxcey21) |
 | 211055002 | Muhamad Zidan Rifqi Ramadhan | Universitas AKPRIND Indonesia | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/mzidanrifqirtkj) |
 
 ## Our Mentor!
@@ -67,6 +67,14 @@ Pada projek ini terdapat 16 template yang dapat dipakai oleh merchant / pelaku u
 | ![minuman-3](https://github.com/user-attachments/assets/ced2f6c8-eff2-4a23-a32b-100d0c80957d) | ![seblak](https://github.com/user-attachments/assets/add1ff4a-8e4b-4ed2-9555-033bb8ba6697) | ![warung](https://github.com/user-attachments/assets/1a50f18a-17b3-4ec8-9b40-28c5c764630d) | ![warung-2](https://github.com/user-attachments/assets/dc8dfc90-a2bf-49a3-973b-c3b52f30bf94) |
 | Product Page Minuman 3 | Product Page Seblak | Product Page Warung | Product Page Warung 2|
 | ![minuman-3](https://github.com/user-attachments/assets/65688d40-3c68-427e-95b4-eb6644c87f95) | ![seblak](https://github.com/user-attachments/assets/4a12e310-5447-4820-a23b-62b8b631efa9) | ![warung](https://github.com/user-attachments/assets/9a139133-f5a3-4b73-8c6f-0441ac67ce28) | ![warung-2](https://github.com/user-attachments/assets/69e19218-d135-4ac8-b4ad-e1210e3d895a) |
+
+### [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/thanxcey21) Adriano Nathan Widodo
+| Donat | Estore | Famms | 
+| ----------- | ----------- | ----------- | ----------- |
+| Dashboard Donat | Dashboard Estore | Dashboard Famms |
+| ![donat](https://github.com/user-attachments/assets/3a7ce91f-8741-45d6-88fb-a071d2739873) | ![estore](https://github.com/user-attachments/assets/8ee72e61-376d-4b74-8aa6-5edc2bac01e8) | ![famms](https://github.com/user-attachments/assets/2a0ab065-e1cf-4598-94b1-4ee91edb6b0f) |
+| Product Page Donat | Product Page Estore | Product Page Famms |
+| ![donat](https://github.com/user-attachments/assets/3b81c0ae-bdb8-4705-93df-e0aa08292d3b) | ![estore](https://github.com/user-attachments/assets/c2602f89-76dd-476f-a6bb-9be3dc0269c8) | ![famms](https://github.com/user-attachments/assets/6bb17a87-0d78-4d03-94b6-8605ad918993)
 
 ### [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/mzidanrifqirtkj) Muhammad Zidan Rifqi Ramadhan
 | FreshShop | Keripik | Keripik 2 | Kue 2 |
