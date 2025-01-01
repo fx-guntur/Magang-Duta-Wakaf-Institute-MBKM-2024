@@ -24,7 +24,7 @@ Proyek yang saya kerjakan adalah sebuah platform web yang dirancang khusus untuk
 * **Login Multi-Table**: Pengelolaan data pengguna yang terstruktur.
 * **Kontrol Akses**: Hak akses yang berbeda untuk admin, merchant, dan customer.
 * **Manajemen Produk**: Pengelolaan produk dengan berbagai kategori (kue, roti, minuman, dll).
-* **16 Template**: Terdapat 20 template pada proyek ini. Template dibuat sedinamis mungkin sehingga dapat menampilkan data dengan baik dan dikelola dengan mudah
+* **16 Template**: Terdapat 16 template pada proyek ini. Template dibuat sedinamis mungkin sehingga dapat menampilkan data dengan baik dan dikelola dengan mudah
 
 
 ## Screenshots User Panel
