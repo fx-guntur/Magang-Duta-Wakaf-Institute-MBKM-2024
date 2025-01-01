@@ -1,6 +1,6 @@
 # Projek Magang MBKM di Duta Wakaf Institute Tahun 2024
 
-Proyek yang saya kerjakan adalah sebuah platform web yang dirancang khusus untuk pelaku usaha yang sudah melakukan sertifikasi halal. Sistem ini mengadopsi konsep whitelabel dan login multi-table sehingga memungkinkan pelaku usaha / merchant mempunyai website sesuai tema yang mereka inginkan dengan maintenance yang mudah.
+Proyek yang kami kerjakan adalah sebuah platform web yang dirancang khusus untuk pelaku usaha yang sudah melakukan sertifikasi halal. Sistem ini mengadopsi konsep whitelabel dan login multi-table sehingga memungkinkan pelaku usaha / merchant mempunyai website sesuai tema yang mereka inginkan dengan maintenance yang mudah.
 
 
 ## Meet The Team! 👋
