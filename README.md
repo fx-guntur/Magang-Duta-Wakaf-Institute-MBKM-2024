@@ -1,4 +1,4 @@
-![screencapture-kue-2-test-produk-2025-01-01-14_24_13](https://github.com/user-attachments/assets/f653d3e6-e9fe-48ea-b747-b926a8fe671a)# Projek Magang MBKM di Duta Wakaf Institute Tahun 2024
+# Projek Magang MBKM di Duta Wakaf Institute Tahun 2024
 
 Proyek yang kami kerjakan adalah sebuah platform web yang dirancang khusus untuk pelaku usaha yang sudah melakukan sertifikasi halal. Sistem ini mengadopsi konsep whitelabel dan login multi-table sehingga memungkinkan pelaku usaha / merchant mempunyai website sesuai tema yang mereka inginkan dengan maintenance yang mudah.
 
