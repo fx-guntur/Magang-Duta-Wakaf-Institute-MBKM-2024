@@ -61,11 +61,11 @@ Pada projek ini terdapat 16 template yang dapat dipakai oleh merchant / pelaku u
 | ![kue-roti](https://github.com/user-attachments/assets/40eecad1-e3bb-4ade-ad55-a753482042cf) | ![kue-kering](https://github.com/user-attachments/assets/cf7c9868-8969-426a-9ee9-1152549be521) | ![kue-3](https://github.com/user-attachments/assets/e670955b-da5e-47c5-b373-b3c9d315f288) | ![minuman-2](https://github.com/user-attachments/assets/c9f949d1-dd34-4386-bd02-3c0b8fe89d64) |
 
 ### [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/iqbalabdulmajid) iqbal Abdul Majid
-| Minuman 3 | Seblak | warung | warung 2 |
+| Minuman 3 | Seblak | Warung | Warung 2 |
 | ----------- | ----------- | ----------- | ----------- |
-| Dashboard Minuman 3 | Dashboard Seblak | Dashboard warung | Dashboard warung 2 |
+| Dashboard Minuman 3 | Dashboard Seblak | Dashboard Warung | Dashboard Warung 2 |
 | ![minuman-3](https://github.com/user-attachments/assets/ced2f6c8-eff2-4a23-a32b-100d0c80957d) | ![seblak](https://github.com/user-attachments/assets/add1ff4a-8e4b-4ed2-9555-033bb8ba6697) | ![warung](https://github.com/user-attachments/assets/1a50f18a-17b3-4ec8-9b40-28c5c764630d) | ![warung-2](https://github.com/user-attachments/assets/dc8dfc90-a2bf-49a3-973b-c3b52f30bf94) |
-| Product Page Minuman 3 | Product Page Seblak | Product Page warung | Product Page warung 2|
+| Product Page Minuman 3 | Product Page Seblak | Product Page Warung | Product Page Warung 2|
 | ![minuman-3](https://github.com/user-attachments/assets/65688d40-3c68-427e-95b4-eb6644c87f95) | ![seblak](https://github.com/user-attachments/assets/4a12e310-5447-4820-a23b-62b8b631efa9) | ![warung](https://github.com/user-attachments/assets/9a139133-f5a3-4b73-8c6f-0441ac67ce28) | ![warung-2](https://github.com/user-attachments/assets/69e19218-d135-4ac8-b4ad-e1210e3d895a) |
 
 <!---
