@@ -64,9 +64,9 @@ Pada projek ini terdapat 16 template yang dapat dipakai oleh merchant / pelaku u
 | Minuman 3 | Seblak | warung | warung 2 |
 | ----------- | ----------- | ----------- | ----------- |
 | Dashboard Minuman 3 | Dashboard Seblak | Dashboard warung | Dashboard warung 2 |
-| ![minuman-3](https://github.com/user-attachments/assets/ced2f6c8-eff2-4a23-a32b-100d0c80957d) | ![seblak](https://github.com/user-attachments/assets/add1ff4a-8e4b-4ed2-9555-033bb8ba6697) | ![warung](https://github.com/user-attachments/assets/c2a48b47-ef93-4486-bac3-f69c7f0a13c2) | ![warung-2](https://github.com/user-attachments/assets/dc8dfc90-a2bf-49a3-973b-c3b52f30bf94) |
+| ![minuman-3](https://github.com/user-attachments/assets/ced2f6c8-eff2-4a23-a32b-100d0c80957d) | ![seblak](https://github.com/user-attachments/assets/add1ff4a-8e4b-4ed2-9555-033bb8ba6697) | ![warung](https://github.com/user-attachments/assets/1a50f18a-17b3-4ec8-9b40-28c5c764630d) | ![warung-2](https://github.com/user-attachments/assets/dc8dfc90-a2bf-49a3-973b-c3b52f30bf94) |
 | Product Page Minuman 3 | Product Page Seblak | Product Page warung | Product Page warung 2|
-| ![minuman-3](https://github.com/user-attachments/assets/65688d40-3c68-427e-95b4-eb6644c87f95) | ![seblak](https://github.com/user-attachments/assets/4a12e310-5447-4820-a23b-62b8b631efa9) | ![warung](https://github.com/user-attachments/assets/04a27c6b-8291-4ea0-99fb-dace40269b49) | ![warung-2](https://github.com/user-attachments/assets/69e19218-d135-4ac8-b4ad-e1210e3d895a) |
+| ![minuman-3](https://github.com/user-attachments/assets/65688d40-3c68-427e-95b4-eb6644c87f95) | ![seblak](https://github.com/user-attachments/assets/4a12e310-5447-4820-a23b-62b8b631efa9) | ![warung](https://github.com/user-attachments/assets/9a139133-f5a3-4b73-8c6f-0441ac67ce28) | ![warung-2](https://github.com/user-attachments/assets/69e19218-d135-4ac8-b4ad-e1210e3d895a) |
 
 <!---
 | Tema 1 | Tema 2 | Tema 3 | Tema 4 |
@@ -78,6 +78,8 @@ d Tema 3 | Dashboard Tema 4 |
 | Product Page Tema 1 | Product Page Tema 2 | Product Page Tema 1 | Product Page Tema 2 |
 | image_link | image_link | image_link | image_link |
 !>
+
+
 
 
 
