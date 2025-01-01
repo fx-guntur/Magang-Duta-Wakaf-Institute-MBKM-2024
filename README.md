@@ -15,8 +15,8 @@ Proyek yang kami kerjakan adalah sebuah platform web yang dirancang khusus untuk
 ## Our Mentor!
 | Name |  |
 | ----- | ----- |
-| Dwi Aji Pranolo | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/fx-guntur) |
-| Irfan Rivai | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/fx-guntur) |
+| Dwi Aji Pranolo | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/si-aji) |
+| Irfan Rivai | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/irvanrifai) |
 
 ## Fitur Utama:
 
