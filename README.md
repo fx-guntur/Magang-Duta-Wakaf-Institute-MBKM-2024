@@ -1,4 +1,4 @@
-# Projek Magang MBKM di Duta Wakaf Institute Tahun 2024
+![screencapture-kue-2-test-produk-2025-01-01-14_24_13](https://github.com/user-attachments/assets/f653d3e6-e9fe-48ea-b747-b926a8fe671a)# Projek Magang MBKM di Duta Wakaf Institute Tahun 2024
 
 Proyek yang kami kerjakan adalah sebuah platform web yang dirancang khusus untuk pelaku usaha yang sudah melakukan sertifikasi halal. Sistem ini mengadopsi konsep whitelabel dan login multi-table sehingga memungkinkan pelaku usaha / merchant mempunyai website sesuai tema yang mereka inginkan dengan maintenance yang mudah.
 
@@ -10,7 +10,7 @@ Proyek yang kami kerjakan adalah sebuah platform web yang dirancang khusus untuk
 | 211057011 | Fx. Guntur Putra Susanto | Universitas AKPRIND Indonesia | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/fx-guntur) |
 | 211054012 | Iqbal Abdul Majid | Universitas AKPRIND Indonesia | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/iqbalabdulmajid) |
 | 211059001 | Adriano Nathan Widodo | Universitas AKPRIND Indonesia | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/fx-guntur) |
-| 211054... | Muhamad Zidan Rifqi Ramadhan | Universitas AKPRIND Indonesia | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/fx-guntur) |
+| 211055002 | Muhamad Zidan Rifqi Ramadhan | Universitas AKPRIND Indonesia | [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/mzidanrifqirtkj) |
 
 ## Our Mentor!
 | Name |  |
@@ -67,6 +67,14 @@ Pada projek ini terdapat 16 template yang dapat dipakai oleh merchant / pelaku u
 | ![minuman-3](https://github.com/user-attachments/assets/ced2f6c8-eff2-4a23-a32b-100d0c80957d) | ![seblak](https://github.com/user-attachments/assets/add1ff4a-8e4b-4ed2-9555-033bb8ba6697) | ![warung](https://github.com/user-attachments/assets/1a50f18a-17b3-4ec8-9b40-28c5c764630d) | ![warung-2](https://github.com/user-attachments/assets/dc8dfc90-a2bf-49a3-973b-c3b52f30bf94) |
 | Product Page Minuman 3 | Product Page Seblak | Product Page Warung | Product Page Warung 2|
 | ![minuman-3](https://github.com/user-attachments/assets/65688d40-3c68-427e-95b4-eb6644c87f95) | ![seblak](https://github.com/user-attachments/assets/4a12e310-5447-4820-a23b-62b8b631efa9) | ![warung](https://github.com/user-attachments/assets/9a139133-f5a3-4b73-8c6f-0441ac67ce28) | ![warung-2](https://github.com/user-attachments/assets/69e19218-d135-4ac8-b4ad-e1210e3d895a) |
+
+### [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/mzidanrifqirtkj) Muhammad Zidan Rifqi Ramadhan
+| FreshShop | Keripik | Keripik 2 | Kue 2 |
+| ----------- | ----------- | ----------- | ----------- |
+| Dashboard FreshShop | Dashboard Keripik | Dashboard Keripik 2 | Dashboard Kue 2 |
+| ![freshshop](https://github.com/user-attachments/assets/a0c0c1f8-9636-4dc8-bbb1-f51c54661c9a) | ![keripik](https://github.com/user-attachments/assets/cf431d72-3171-468a-986a-76871695d9b9) | ![keripik-2](https://github.com/user-attachments/assets/bc66e6d1-8e4e-44b2-8677-6370ea46c178) | ![kue-2](https://github.com/user-attachments/assets/0ec8b3e5-3ece-4afc-a684-9fb68add7619) |
+| Product Page FreshShop | Product Page Keripik | Product Page Keripik 2 | Product Page Kue 2|
+| ![freshshop](https://github.com/user-attachments/assets/8e507629-e979-45c6-90a8-f7919cc4d0ec) | ![keripik](https://github.com/user-attachments/assets/54411d4c-8f0f-44e2-b8ea-0b1f5894a0d0) | ![keripik-2](https://github.com/user-attachments/assets/3c7e9839-8875-4079-afdc-613fa5e14f81) | ![kue-2](https://github.com/user-attachments/assets/8b5cb6f6-6601-44a3-9bab-8708f741feb3) |
 
 <!---
 | Tema 1 | Tema 2 | Tema 3 | Tema 4 |
