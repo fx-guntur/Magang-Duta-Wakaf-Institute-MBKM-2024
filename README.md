@@ -72,9 +72,9 @@ Pada projek ini terdapat 16 template yang dapat dipakai oleh merchant / pelaku u
 | Donat | Estore | Famms | 
 | ----------- | ----------- | ----------- |
 | Dashboard Donat | Dashboard Estore | Dashboard Famms |
-| ![donat](https://github.com/user-attachments/assets/3a7ce91f-8741-45d6-88fb-a071d2739873) | ![estore](https://github.com/user-attachments/assets/8ee72e61-376d-4b74-8aa6-5edc2bac01e8) | ![famms](https://github.com/user-attachments/assets/2a0ab065-e1cf-4598-94b1-4ee91edb6b0f) |
+| ![donat](https://github.com/user-attachments/assets/bf252ff3-b214-41ac-a9f0-eeaddb1f344b) | ![estore](https://github.com/user-attachments/assets/beb288a6-c8a4-4d0d-8218-c78bb0f609c8) | ![famms](https://github.com/user-attachments/assets/7b153088-b26e-4dc2-b352-6b0afac9f1b5) |
 | Product Page Donat | Product Page Estore | Product Page Famms |
-| ![donat](https://github.com/user-attachments/assets/3b81c0ae-bdb8-4705-93df-e0aa08292d3b) | ![estore](https://github.com/user-attachments/assets/c2602f89-76dd-476f-a6bb-9be3dc0269c8) | ![famms](https://github.com/user-attachments/assets/6bb17a87-0d78-4d03-94b6-8605ad918993)
+| ![donat](https://github.com/user-attachments/assets/8a3dd581-4c35-488a-9939-1b71857bebab) | ![estore](https://github.com/user-attachments/assets/fa4f96e0-200f-4f92-b1cd-63b62556368e) | ![famms](https://github.com/user-attachments/assets/c851a961-82f4-4e5d-96d0-46f3d5a73e09)
 
 ### [![github](https://github.com/user-attachments/assets/2d8f88ff-0d0d-493c-b1e8-d666b8bd6c8d)](https://github.com/mzidanrifqirtkj) Muhammad Zidan Rifqi Ramadhan
 | FreshShop | Keripik | Keripik 2 | Kue 2 |
@@ -96,13 +96,19 @@ d Tema 3 | Dashboard Tema 4 |
 !>
 
 
+![screencapture-seblak-test-2025-01-04-16_30_19 (1)](https://github.com/user-attachments/assets/bf252ff3-b214-41ac-a9f0-eeaddb1f344b)
+![screencapture-seblak-test-produk-2025-01-04-16_32_42](https://github.com/user-attachments/assets/8a3dd581-4c35-488a-9939-1b71857bebab)
 
 
+![screencapture-seblak-test-produk-2025-01-04-16_39_55](https://github.com/user-attachments/assets/fa4f96e0-200f-4f92-b1cd-63b62556368e)
 
 
+![screencapture-seblak-test-2025-01-04-16_39_28](https://github.com/user-attachments/assets/beb288a6-c8a4-4d0d-8218-c78bb0f609c8)
 
  
+![screencapture-seblak-test-2025-01-04-16_42_50](https://github.com/user-attachments/assets/7b153088-b26e-4dc2-b352-6b0afac9f1b5)
 
+![screencapture-seblak-test-produk-2025-01-04-16_43_06](https://github.com/user-attachments/assets/c851a961-82f4-4e5d-96d0-46f3d5a73e09)
 
 
 
